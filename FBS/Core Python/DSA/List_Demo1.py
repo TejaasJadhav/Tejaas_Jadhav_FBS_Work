@@ -24,7 +24,7 @@ print(li)
 #print(sum)
 
 
-######using indexing
+######using indexing   sum of no in list
 #sum=0
 #for a in range(0,len(list)):
 #        sum+=list(a)
