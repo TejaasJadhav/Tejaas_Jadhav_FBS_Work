@@ -21,6 +21,7 @@ print(list)
 ssmall=list[1]
 
 print(len(list))  #length is total 7 so -2 after doing sort we get number
+#slarge=list[len(list)-2]
 
 slarge=list[-2]
 
