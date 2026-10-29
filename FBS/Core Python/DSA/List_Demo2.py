@@ -11,8 +11,10 @@ for i in range(1,len(lis)):
 print(f"Largest Number form list = {largest}")            
 print(f"Smallest Number form list = {small}")
 
-#2 largest number and 2 smallest number
 
+
+
+#2 largest number and 2 smallest number
 
 list=[1,8,2,3,5,7,10]
 
