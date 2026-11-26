@@ -1,5 +1,4 @@
 from EmpManage import Empmanage
-
 class main:
     def showmenu(self):
         while True:
